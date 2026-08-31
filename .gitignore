@@ -1,0 +1,16 @@
+# Ignore cache directory
+cache/
+
+# Ignore data directory
+data/
+
+# Ignore Conda package environment
+.CondaPkg/
+
+# Ignore IDE settings
+.vscode/
+.openclaude/
+
+# Ignore compiled/generated artifacts
+*.cov
+*.mem
